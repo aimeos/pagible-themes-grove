@@ -836,7 +836,7 @@ class GroveDemo extends AbstractDemo
 
 
     /**
-     * Creates (once) a 4:5 portrait image for the arched hero frames and returns its file ID.
+     * Creates (once) a 4:5 portrait image for the leaf-shaped hero frames and returns its file ID.
      *
      * @param string $key PHOTOS key
      * @return string File ID
