@@ -41,7 +41,7 @@
     position: absolute;
     inset: 0;
     z-index: -1;
-    background-color: #1F3A2CCC;
+    background-color: #1F3A2CD9;
 }
 
 .hero .background img {
@@ -173,7 +173,7 @@
     z-index: -1;
     inset: 1.25rem -1.25rem -1.25rem 1.25rem;
     border: 1.5px solid #C5D86D80;
-    border-radius: 44% 56% 52% 48% / 56% 44% 56% 44%;
+    border-radius: 1.5rem;
 }
 
 .hero .second img {
@@ -186,7 +186,7 @@
     aspect-ratio: 4 / 5;
     max-height: 40rem;
     object-fit: cover;
-    border-radius: 58% 42% 46% 54% / 48% 56% 44% 52%;
+    border-radius: 1.5rem;
 }
 
 .hero .second.multiple {
@@ -258,7 +258,7 @@
 
 @media screen and (min-width: 1200px) {
     .hero:has(.background)::after {
-        background: linear-gradient(90deg, #1F3A2CF2 0%, #1F3A2CCC 45%, #1F3A2C33 75%);
+        background: linear-gradient(90deg, #1F3A2CF2 0%, #1F3A2CD9 55%, #1F3A2C33 85%);
     }
 
     .hero:has(.background) .container {
