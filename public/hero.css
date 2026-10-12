@@ -173,7 +173,7 @@
     z-index: -1;
     inset: 1.25rem -1.25rem -1.25rem 1.25rem;
     border: 1.5px solid #C5D86D80;
-    border-radius: min(12rem, 40%) 1.5rem;
+    border-radius: 44% 56% 52% 48% / 56% 44% 56% 44%;
 }
 
 .hero .second img {
@@ -186,7 +186,7 @@
     aspect-ratio: 4 / 5;
     max-height: 40rem;
     object-fit: cover;
-    border-radius: min(12rem, 40%) 1.5rem;
+    border-radius: 58% 42% 46% 54% / 48% 56% 44% 52%;
 }
 
 .hero .second.multiple {
